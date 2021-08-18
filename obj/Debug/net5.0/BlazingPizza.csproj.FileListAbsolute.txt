@@ -1,0 +1,138 @@
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\appsettings.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\BlazingPizza.exe
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\BlazingPizza.deps.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\BlazingPizza.runtimeconfig.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\BlazingPizza.runtimeconfig.dev.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\ref\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\BlazingPizza.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\BlazingPizza.Views.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\bin\Debug\net5.0\BlazingPizza.Views.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.csproj.AssemblyReference.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.AssemblyInfoInputs.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.AssemblyInfo.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.csproj.CoreCompileInputs.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.RazorComponent.input.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.RazorComponent.output.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\RazorDeclaration\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.TagHelpers.input.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.TagHelpers.output.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.RazorCoreGenerate.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.RazorAssemblyInfo.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.RazorAssemblyInfo.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\staticwebassets\BlazingPizza.StaticWebAssets.Manifest.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\staticwebassets\BlazingPizza.StaticWebAssets.xml
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\scopedcss\bundle\BlazingPizza.styles.css
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.RazorTargetAssemblyInfo.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.RazorTargetAssemblyInfo.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.Views.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\ref\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.genruntimeconfig.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza\obj\Debug\net5.0\BlazingPizza.csproj.CopyComplete
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\appsettings.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\BlazingPizza.exe
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\BlazingPizza.deps.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\BlazingPizza.runtimeconfig.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\BlazingPizza.runtimeconfig.dev.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\ref\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\BlazingPizza.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\BlazingPizza.Views.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\bin\Debug\net5.0\BlazingPizza.Views.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.csproj.AssemblyReference.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.AssemblyInfoInputs.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.AssemblyInfo.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.csproj.CoreCompileInputs.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.RazorComponent.input.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.RazorComponent.output.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\RazorDeclaration\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.TagHelpers.input.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.TagHelpers.output.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.RazorCoreGenerate.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.RazorAssemblyInfo.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.RazorAssemblyInfo.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\staticwebassets\BlazingPizza.StaticWebAssets.Manifest.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\staticwebassets\BlazingPizza.StaticWebAssets.xml
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\scopedcss\bundle\BlazingPizza.styles.css
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.RazorTargetAssemblyInfo.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.RazorTargetAssemblyInfo.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.Views.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\ref\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.genruntimeconfig.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Added PizzaSpecials manually\obj\Debug\net5.0\BlazingPizza.csproj.CopyComplete
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\appsettings.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\BlazingPizza.exe
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\BlazingPizza.deps.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\BlazingPizza.runtimeconfig.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\BlazingPizza.runtimeconfig.dev.json
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\ref\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\BlazingPizza.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\BlazingPizza.Views.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\bin\Debug\net5.0\BlazingPizza.Views.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.csproj.AssemblyReference.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.AssemblyInfoInputs.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.AssemblyInfo.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.csproj.CoreCompileInputs.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.RazorComponent.input.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.RazorComponent.output.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\RazorDeclaration\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.TagHelpers.input.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.TagHelpers.output.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.RazorCoreGenerate.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.RazorAssemblyInfo.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.RazorAssemblyInfo.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\staticwebassets\BlazingPizza.StaticWebAssets.Manifest.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\staticwebassets\BlazingPizza.StaticWebAssets.xml
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\scopedcss\bundle\BlazingPizza.styles.css
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.RazorTargetAssemblyInfo.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.RazorTargetAssemblyInfo.cs
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.Views.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\ref\BlazingPizza.dll
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.pdb
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.genruntimeconfig.cache
+C:\Users\phils\Agylia Group Ltd\Q4185 - Building Web Applications with Blazor - General\content\blazor-files\BlazingPizza - m1 - Start\obj\Debug\net5.0\BlazingPizza.csproj.CopyComplete
