@@ -31,7 +31,7 @@ namespace BlazingPizza
 
         public decimal GetTotalPrice()
         {
-            return GetBasePrice() + Toppings.Sum(t => t.Topping.Price);
+            return GetBasePrice();
         }
 
         public string GetFormattedTotalPrice()
